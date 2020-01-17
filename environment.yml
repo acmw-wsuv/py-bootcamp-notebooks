@@ -1,0 +1,10 @@
+name: pybc
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7.6
+  - matplotlib
+  - numpy
+  - pandas
+  - tqdm
