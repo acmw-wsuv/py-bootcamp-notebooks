@@ -18,8 +18,8 @@ https://www.kaggle.com/acmwwsuv/day2presentation
 
 The presentation slides are available in the "day-3" directory in this repo, or the links below.
 
-[Rendered .pdf file](day-3/Day 3 Presentation.pdf)  
-[Powerpoint .pptx file](day-3/Day 3 Presentation.pptx)
+[Rendered .pdf file](day-3/Day-3-Presentation.pdf)  
+[Powerpoint .pptx file](day-3/Day-3-Presentation.pptx)
 
 ### Jupyter Notebook
 
